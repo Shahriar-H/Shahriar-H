@@ -1,4 +1,7 @@
-# ++++++%%%%%%% Full Stack Developer %%%%%%+++++++ #
+
+<h2 align="center" style="margin: auto;">Full Stack Developer</h2>
+<p align="center" style="margin: auto;">Web, Android, Desktop</p>
+
 ## Please star my profile ##
 - 👋 Hi, I’m @Shahriar-H
 - 👀 I’m interested in Software Development
