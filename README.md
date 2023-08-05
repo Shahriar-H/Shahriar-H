@@ -1,6 +1,6 @@
 
 <h2 align="center" style="margin: auto;">Full Stack Developer</h2>
-<p align="center" style="margin: auto;">Web, Android, Desktop</p>
+<p align="center" style="margin: auto;">Web, Android, IoS</p>
 
 ## Please star my profile ##
 - 👋 Hi, I’m @Shahriar-H
