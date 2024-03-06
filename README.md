@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 [![Python](https://img.shields.io/badge/-Python-brightgreen?style=flat)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C++-blue?style=flat)](https://www.python.org/)
 [![C](https://img.shields.io/badge/-C-blue?style=flat)](https://www.python.org/)
-[![Javascript](https://img.shields.io/badge/-Javascripty-yellow?style=flat)](https://www.python.org/)
+[![Javascript](https://img.shields.io/badge/-Javascript-yellow?style=flat)](https://www.python.org/)
 [![React](https://img.shields.io/badge/-ReactNative-green?style=flat)](https://www.python.org/)
 [![ReactNative](https://img.shields.io/badge/-C++-blue?style=flat)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/-Java-orange?style=flat)](https://www.python.org/)
