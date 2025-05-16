@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    👋 Hi, I’m @Shahriar-H<br>    👀 I’m interested in Software Development<br>    🌱 I’m currently learning React-Native<br>    💞️ I’m looking to collaborate on React-Native Project<br>    📫 You can reach me through this mail shakihusain4@gmail.com<br>
+<br>    👋 Hi, I’m @Shahriar-H<br>    👀 I’m interested in Software Development<br>    🌱 I’m currently learning Nest, Prisma & GraphQL<br>    💞️ I’m looking to collaborate on React-Native Project<br>    📫 You can reach me through this mail shakihusain4@gmail.com<br>
 
 
 ## 🌐 Socials:
